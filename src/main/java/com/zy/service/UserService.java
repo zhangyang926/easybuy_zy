@@ -9,5 +9,4 @@ public interface UserService {
     User loginUser(String name, String pwd);
 
     int registerUser(User u);
-
 }
